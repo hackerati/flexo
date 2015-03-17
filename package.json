@@ -18,6 +18,7 @@
     "hubot-lunch": "^0.1.2",
     "hubot-maps": "0.0.1",
     "hubot-pugme": "^0.1.0",
+    "hubot-pugsofwesteros": "^1.0.3",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
