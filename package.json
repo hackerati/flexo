@@ -6,6 +6,9 @@
   "description": "Better than Bender. Still steals your wallet.",
   "dependencies": {
     "hubot": "^2.11.2",
+    "hubot-beer-me": "0.0.10",
+    "hubot-bropages": "0.0.2",
+    "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
