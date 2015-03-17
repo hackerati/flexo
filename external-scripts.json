@@ -14,5 +14,6 @@
   "hubot-bropages",
   "hubot-darksky",
   "hubot-lunch",
-  "hubot-google-translate"
+  "hubot-google-translate",
+  "hubot-imgur_puns"
 ]
