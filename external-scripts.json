@@ -13,5 +13,6 @@
   "hubot-beer-me",
   "hubot-bropages",
   "hubot-darksky",
-  "hubot-lunch"
+  "hubot-lunch",
+  "hubot-google-translate"
 ]
